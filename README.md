@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Rajapandi 👋
 
-<!--
-**Rajapandi-M-ARM/Rajapandi-M-ARM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 CSE undergrad passionate about systems, C programming, and cybersecurity
+- ⚡ Hackathon builder turning logic into secure, impactful software
+- 🎯 Solving daily algorithmic problems on **LeetCode**
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/rajapandi-m-43a561421/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub & LeetCode Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajapandi-M-ARM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajapandi-M-ARM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rajapandi_M?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+</p>
