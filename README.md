@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajapandi-M-ARM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-   
+  [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)]((https://www.hackerrank.com/profile/rajapandiarm))
 </p>
 
 <p align="center">
