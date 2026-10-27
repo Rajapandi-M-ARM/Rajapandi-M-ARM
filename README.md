@@ -2,18 +2,15 @@
 
 - 💻 CSE undergrad passionate about systems, C programming, and cybersecurity
 - ⚡ Hackathon builder turning logic into secure, impactful software
-- 🎯 Solving daily algorithmic problems on **LeetCode**
+- 🎯 Solving daily algorithmic problems on [LeetCode](https://leetcode.com/u/Rajapandi_M/)
+- 🏆 Practicing core language tracks & certifications on [HackerRank](https://www.hackerrank.com/profile/rajapandiarm)
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/rajapandi-m-43a561421/)
 
 ---
 
-### 📊 GitHub & LeetCode Activity
+### 📊 Coding & Activity Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajapandi-M-ARM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)]((https://www.hackerrank.com/profile/rajapandiarm))
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rajapandi_M?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Rajapandi_M?theme=dark&font=Ubuntu" alt="LeetCode Stats" width="48%" />
 </p>
