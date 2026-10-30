@@ -10,7 +10,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Rajapandi-M-ARM&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/Rajapandi-M-ARM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajapandi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajapandi-m-43a561421/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Rajapandi__M-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajapandi_M/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-rajapandiarm-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rajapandiarm)
+
 
 </div>
 
