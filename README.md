@@ -37,7 +37,7 @@ int main() {
 ```
 
 📜 Certifications & Credentials<br>
-Introduction to C — Sololearn (Credential ID: CC-VD8VDFFS)
+<ol><li>Introduction to C — Sololearn (Credential ID: CC-VD8VDFFS)</li></ol>
 
 🛠️ Tech Stack & Focus Areas<br>
 Languages: C, Bash / Shell
