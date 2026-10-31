@@ -34,7 +34,7 @@ int main() {
     };
     return 0;
 }
-
+'''c
 
 📜 Certifications & Credentials
 Introduction to C — Sololearn (Credential ID: CC-VD8VDFFS)
