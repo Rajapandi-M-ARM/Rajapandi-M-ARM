@@ -36,12 +36,13 @@ int main() {
 }
 ```
 
-📜 Certifications & Credentials
+📜 Certifications & Credentials<br>
 Introduction to C — Sololearn (Credential ID: CC-VD8VDFFS)
 
-🛠️ Tech Stack & Focus Areas
+🛠️ Tech Stack & Focus Areas<br>
 Languages: C, Bash / Shell
 
 Low-Level & Systems: Pointer Arithmetic, Memory Management (malloc/free), POSIX System Calls
+
 
 Domains: Systems Architecture, Data Structures & Algorithms, Cybersecurity Fundamentals
