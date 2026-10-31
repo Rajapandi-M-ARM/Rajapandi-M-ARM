@@ -37,12 +37,13 @@ int main() {
 ```
 
 📜 Certifications & Credentials<br>
-<ol><li>Introduction to C — Sololearn (Credential ID: CC-VD8VDFFS)</li></ol>
+<ul><li>Introduction to C — Sololearn (Credential ID: CC-VD8VDFFS)</li></ul>
 
 🛠️ Tech Stack & Focus Areas<br>
-Languages: C, Bash / Shell
+<ul><li>Languages: C, Bash / Shell</li>
 
-Low-Level & Systems: Pointer Arithmetic, Memory Management (malloc/free), POSIX System Calls
+<li>Low-Level & Systems: Pointer Arithmetic, Memory Management (malloc/free), POSIX System Calls</li>
 
 
-Domains: Systems Architecture, Data Structures & Algorithms, Cybersecurity Fundamentals
+<li>Domains: Systems Architecture, Data Structures & Algorithms, Cybersecurity Fundamentals</li>
+</ul>
